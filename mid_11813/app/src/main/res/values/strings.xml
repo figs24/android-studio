@@ -1,0 +1,50 @@
+<resources>
+    <!-- Header-->
+    <string name="app_name">mid_11813</string>
+    <string name="header">SELAMAT DATANG DI WARUNG JOGJA</string>
+    <string name="lokasi">Lokasi: Jl.Brotowali No.26 Bantul Yogyakarta</string>
+    <string name="fav">MAKANAN FAVORIT</string>
+    <string name="menu">MENU MAKANAN</string>
+    <string name="headAyam">AYAM GORENG</string>
+    <string name="headAyamB">AYAM BAKAR</string>
+    <string name="headBebek">BEBEK GORENG</string>
+    <string name="headGurame">IKAN GURAME GORENG</string>
+    <string name="headLele">IKAN LELE GORENG</string>
+    <string name="headTahu">TAHU GORENG</string>
+    <string name="headTempe">TEMPE GORENG</string>
+    <string name="headTerong">TERONG BAKAR</string>
+    <!-- MainActivity-->
+    <string name="ayamb">Ayam Bakar</string>
+    <string name="hayamb">Rp. 14.000,-</string>
+    <string name="desAyamb">Ayam bakar, nasi, sambal terasi,dan lalapan.</string>
+    <string name="ayam">Ayam Goreng</string>
+    <string name="hayam">Rp. 12.000,-</string>
+    <string name="desAyam">Ayam goreng, nasi, sambal,dan lalapan.</string>
+    <string name="bebek">Bebek Goreng</string>
+    <string name="hbebek">Rp. 17.000,-</string>
+    <string name="desBebek">Bebek Goreng, nasi, sambal ijo,dan lalapan.</string>
+    <string name="gurame">Gurame Goreng</string>
+    <string name="hgurame">Rp. 18.000,-</string>
+    <string name="desGurame">Ikan Gurame goreng terbang, nasi, sambal,dan lalapan.</string>
+    <string name="lele">Lele Goreng</string>
+    <string name="hlele">Rp. 8.000,-</string>
+    <string name="desLele">Ikan Lele goreng, nasi, sambal,dan lalapan.</string>
+    <string name="tahu">Tahu Goreng</string>
+    <string name="htahu">Rp. 4.000,-</string>
+    <string name="desTahu">Tahu goreng dan sambal kecap.</string>
+    <string name="tempe">Tempe Goreng</string>
+    <string name="htempe">Rp. 3.000,-</string>
+    <string name="desTempe">Tempe goreng dan sambal kecap.</string>
+    <string name="terong">Terong Bakar</string>
+    <string name="hterong">Rp. 5.000,-</string>
+    <string name="desTerong">Terong Bakar dan sambal terasi.</string>
+    <!-- Deskripsi Activitylainnya -->
+    <string name="des">Deskripsi:</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="nol">0</string>
+    <string name="total">Total Harga: Rp. </string>
+    <string name="jumlah">Jumlah Makanan</string>
+    <string name="beli">BELI</string>
+    <string name="harga">Harga: </string>
+</resources>
